@@ -1,0 +1,5 @@
+
+
+class cStrings{
+  cStrings._();
+}

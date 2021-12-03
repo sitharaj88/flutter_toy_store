@@ -1,0 +1,5 @@
+
+
+class cColors{
+  cColors._();
+}

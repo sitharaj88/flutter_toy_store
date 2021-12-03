@@ -1,0 +1,3 @@
+class cImages {
+  cImages._();
+}
